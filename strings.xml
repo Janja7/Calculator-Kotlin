@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="toast">Wrong entry!</string>
+    <string name="field">Field is empty!</string>
+</resources>
